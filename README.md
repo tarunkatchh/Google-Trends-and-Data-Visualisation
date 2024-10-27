@@ -26,11 +26,5 @@ In this project I learned how to:
 I think working with Pandas is starting to feel more and more second nature at this point.
 
 
-You can download the completed code for this repository I've attached the completed notebook to this repo as a link. If you have any issues, upload it to google drive and open it as a Google Colab Notebook.
-
-### Google Colab Notebook link 👇
-https://drive.google.com/file/d/1L_3rAyO41Zs8Uew81TdOwDp07Kgng3vn/view?usp=sharing
-
-
 
  
